@@ -1,0 +1,40 @@
+_repo: The-Ballad-of-the-White-Horse_1719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: By G.K. Chesterton The Ballad of the White Horse is one of the last great
+  epic poems in the English language. On the one hand it describes King Alfred's battle
+  against the Danes in 878. On the other hand it is a timeless allegory about the
+  ongoing battle between Christianity and the forces of nihilistic heathenism. Filled
+  with colorful characters, thrilling battles and mystical visions, it is as lively
+  as it is profound. Chesterton incorporates brilliant imagination, atmosphere, moral
+  concern, chronological continuity, wisdom and fancy. He makes his stanzas reverberate
+  with sound.
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian poetry'
+- !lcsh 'Historical poetry'
+- !lcsh 'Alfred, King of England, 849-899 -- Poetry'
+- !lcc 'PR'
+- !lcsh 'White Horse, Vale of (England) -- Poetry'
+- !lcsh 'Great Britain -- History -- Alfred, 871-899 -- Poetry'
+- !lcsh 'Epic poetry'
+- GITenberg
+title: The Ballad of the White Horse
+url: http://www.gutenberg.org/ebooks/1719
